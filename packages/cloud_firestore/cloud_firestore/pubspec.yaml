@@ -34,7 +34,6 @@ dependencies:
       url: https://github.com/rsixel/flutterfire.git
       path: packages/firebase_core/firebase_core_platform_interface
 
-
   flutter:
     sdk: flutter
 
